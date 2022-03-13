@@ -10,12 +10,6 @@
 
 Clone the repo from GitHub and then install the dependencies:
 
-```sh
-git clone https://github.com/Thoud/react-meme-generator
-cd react-meme-generator
-yarn or npm install
-```
-
 ## Usage
 
 With `yarn start` you can start the development server and look at the app at http://localhost:3000.
