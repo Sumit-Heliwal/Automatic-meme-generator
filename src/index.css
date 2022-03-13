@@ -43,7 +43,7 @@ h1 {
   align-items: center;
   justify-content: center;
   padding: 2rem;
-  background-color: #ff6207;
+  background-color: #ce5007;
   border-radius: 1rem 0 0 1rem;
   box-shadow: 0.278rem 0.444rem 0.556rem #5b290a5c;
 }
@@ -73,7 +73,7 @@ button {
 }
 
 button {
-  background-color: #6b4314c9;
+  background-color: #ecfc0b;
   color: #968a56;
   border: none;
   padding: 0.833rem 1.778rem;
@@ -126,7 +126,7 @@ button {
 }
 
 .overflow > div {
-  display: inline;
+  display: grid;
 }
 
 .overflow > div > img {
