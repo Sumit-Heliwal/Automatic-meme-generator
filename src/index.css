@@ -134,7 +134,7 @@ button {
 }
 
 .overflow > div {
-  display: grid;
+  display: inline;
 }
 
 .overflow > div > img {
