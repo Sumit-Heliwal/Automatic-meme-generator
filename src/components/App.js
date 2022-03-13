@@ -35,10 +35,11 @@ export default function App() {
 
   return (
     <>
-	<div>
+	<div class = "heading">
       <h1>Automatic Memes Generator </h1>
 	<h4>A Easy to use tool</h4>
 	</div>
+	<h5>Devloped by Lazy Devlopers</h5>
       <InputFields
         setOverlayHidden={setOverlayHidden}
         topText={topText}
