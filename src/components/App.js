@@ -36,7 +36,7 @@ export default function App() {
   return (
     <>
       <h1>Automatic Memes Generator</h1>
-      <h4>A Easy to use tool</h4>
+      	<h4>A Easy to use tool</h4>
       <InputFields
         setOverlayHidden={setOverlayHidden}
         topText={topText}
