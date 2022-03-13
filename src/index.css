@@ -35,6 +35,7 @@ h1 {
   color: #ff6207;
 }
 h6 {
+  grid-column: 2 / span 2;
   text-align: center;
   color: #ff6207;
 }
@@ -47,7 +48,7 @@ h6 {
   align-items: center;
   justify-content: center;
   padding: 2rem;
-  background-color: #7bce86;
+  background-color: #ce5007;
   border-radius: 1rem 0 0 1rem;
   box-shadow: 0.278rem 0.444rem 0.556rem #5b290a5c;
 }
@@ -55,7 +56,7 @@ h6 {
 label {
   margin-bottom: 0.5rem;
   font-weight: 600;
-  color: #bac4d3;
+  color: #000000;
 }
 
 input {
