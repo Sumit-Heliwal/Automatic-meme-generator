@@ -34,6 +34,12 @@ h1 {
   margin-top: 3rem;
   color: #ff6207;
 }
+h6 {
+  grid-column: 2 / span 2;
+  text-align: center;
+  margin-top: 2rem;
+  color: #ff6207;
+}
 
 /* Styling the left part of the main site */
 .inputFields {
@@ -51,7 +57,7 @@ h1 {
 label {
   margin-bottom: 0.5rem;
   font-weight: 600;
-  color: #222831;
+  color: #bac4d3;
 }
 
 input {
@@ -74,7 +80,7 @@ button {
 
 button {
   background-color: #ecfc0b;
-  color: #968a56;
+  color: #000000;
   border: none;
   padding: 0.833rem 1.778rem;
   text-align: center;
